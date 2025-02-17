@@ -28,12 +28,7 @@ Darius Mail is an intelligent **email assistant** that combines the power of **H
 ✅ **Hugging Face ChatBot** – AI-generated email content  
 ✅ **CustomTkinter** – Elegant and responsive UI  
 ✅ **SMTP (smtplib)** – Secure email transmission  
-✅ **CSV Handling** – Easy contact management  
-
----
-
-## 📷 **Screenshots**  
-*(Coming Soon!)*  
+✅ **CSV Handling** – Easy contact management   
 
 ---
 
