@@ -41,7 +41,7 @@ Darius Mail is an intelligent **email assistant** that combines the power of **H
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/darius-mail.git
+   git clone https://github.com/Alpha-Cassius/HuggingFaceMailer
    cd darius-mail
    ```  
 2. Install dependencies:  
