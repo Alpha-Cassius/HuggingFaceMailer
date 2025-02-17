@@ -1,0 +1,6 @@
+hugchat
+customtkinter
+CTkMessagebox
+CTkToolTip
+smtplib
+csv
